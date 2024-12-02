@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907467185571",
+    "project_id": "evalua-203c4",
+    "storage_bucket": "evalua-203c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907467185571:android:173b8401298736024c8e16",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa4mUY6jjjZDF7KxIpJWTdmqEBFCK8OEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
